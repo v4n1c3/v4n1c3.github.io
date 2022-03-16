@@ -1,0 +1,23 @@
+.customth {
+    text-align: center !important;
+    width: fit-content !important;
+    font-weight: bold !important;
+}
+
+.customtd {
+    text-align: center !important;
+    width: fit-content !important;
+}
+
+.customtable {
+    width: fit-content !important;
+    float: left !important;
+}
+
+.custombuttonbar {
+    float: left !important;
+}
+
+.customp {
+    margin-top: 2cm !important;
+}

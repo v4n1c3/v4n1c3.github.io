@@ -1,0 +1,18 @@
+{
+  "name": "Cellulearn",
+  "short_name": "Cellulearn",
+  "start_url": "./",
+  "orientation": "landscape",
+  "display": "standalone",
+  "description": "Configurable simulation application for learning how two dimensional cellular automata work.",
+  "background_color": "#ffffff",
+  "theme_color": "#ff9800",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
